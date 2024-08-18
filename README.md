@@ -36,7 +36,7 @@ This project undertakes a comprehensive examination of bank loan data, leveragin
 ![Screenshot (251)](https://github.com/user-attachments/assets/84384173-9327-4efc-82c5-51c449d6a5e5)
 
 ## Details Dashboard 
-
+![Screenshot (252)](https://github.com/user-attachments/assets/3c47c5cf-027f-4ae9-ab93-8681579afe40)
 
 ## Tools and Technologies
 * **MySQL:** Employed for data management, manipulation, querying and used to extract, transform, and analyze key metrics within the loan dataset.
