@@ -33,7 +33,9 @@ This project undertakes a comprehensive examination of bank loan data, leveragin
 ![Screenshot (250)](https://github.com/user-attachments/assets/659d4340-2b74-41dc-9634-598999796732)
 
 ## Overview Dashboard 
+![Screenshot (251)](https://github.com/user-attachments/assets/84384173-9327-4efc-82c5-51c449d6a5e5)
 
+## Details Dashboard 
 
 
 ## Tools and Technologies
