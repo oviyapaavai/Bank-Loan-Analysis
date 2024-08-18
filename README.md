@@ -29,6 +29,13 @@ This project undertakes a comprehensive examination of bank loan data, leveragin
 * **Evaluate Financial Health:** Analyze key financial indicators such as total funded amounts, average interest rates, and loan statuses to assess portfolio stability and profitability.
 * **Support Strategic Decision-Making:** Provide data-driven recommendations for improving the bank's credit and loan offerings.
 
+## Summary Dashboard
+![Screenshot (250)](https://github.com/user-attachments/assets/659d4340-2b74-41dc-9634-598999796732)
+
+## Overview Dashboard 
+
+
+
 ## Tools and Technologies
 * **MySQL:** Employed for data management, manipulation, querying and used to extract, transform, and analyze key metrics within the loan dataset.
 * **Power BI:** Utilized for developing interactive dashboards and visualizing trends in loan portfolios.
